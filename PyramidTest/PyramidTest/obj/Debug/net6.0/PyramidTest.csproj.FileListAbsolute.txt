@@ -1,0 +1,15 @@
+C:\Users\rsus\Desktop\VB.net\PyramidTest\PyramidTest\bin\Debug\net6.0\PyramidTest.exe
+C:\Users\rsus\Desktop\VB.net\PyramidTest\PyramidTest\bin\Debug\net6.0\PyramidTest.deps.json
+C:\Users\rsus\Desktop\VB.net\PyramidTest\PyramidTest\bin\Debug\net6.0\PyramidTest.runtimeconfig.json
+C:\Users\rsus\Desktop\VB.net\PyramidTest\PyramidTest\bin\Debug\net6.0\PyramidTest.dll
+C:\Users\rsus\Desktop\VB.net\PyramidTest\PyramidTest\bin\Debug\net6.0\PyramidTest.pdb
+C:\Users\rsus\Desktop\VB.net\PyramidTest\PyramidTest\obj\Debug\net6.0\PyramidTest.csproj.AssemblyReference.cache
+C:\Users\rsus\Desktop\VB.net\PyramidTest\PyramidTest\obj\Debug\net6.0\PyramidTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsus\Desktop\VB.net\PyramidTest\PyramidTest\obj\Debug\net6.0\PyramidTest.AssemblyInfoInputs.cache
+C:\Users\rsus\Desktop\VB.net\PyramidTest\PyramidTest\obj\Debug\net6.0\PyramidTest.AssemblyInfo.cs
+C:\Users\rsus\Desktop\VB.net\PyramidTest\PyramidTest\obj\Debug\net6.0\PyramidTest.csproj.CoreCompileInputs.cache
+C:\Users\rsus\Desktop\VB.net\PyramidTest\PyramidTest\obj\Debug\net6.0\PyramidTest.dll
+C:\Users\rsus\Desktop\VB.net\PyramidTest\PyramidTest\obj\Debug\net6.0\refint\PyramidTest.dll
+C:\Users\rsus\Desktop\VB.net\PyramidTest\PyramidTest\obj\Debug\net6.0\PyramidTest.pdb
+C:\Users\rsus\Desktop\VB.net\PyramidTest\PyramidTest\obj\Debug\net6.0\PyramidTest.genruntimeconfig.cache
+C:\Users\rsus\Desktop\VB.net\PyramidTest\PyramidTest\obj\Debug\net6.0\ref\PyramidTest.dll
